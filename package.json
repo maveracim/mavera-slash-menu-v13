@@ -1,0 +1,11 @@
+{
+  "name": "mavera-v13-button-system",
+  "version": "0.0.1",
+  "description": "DEVELOPED BY MAVERA!",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "MAVERA",
+  "license": "ISC"
+}

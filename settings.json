@@ -1,0 +1,15 @@
+{
+    "TOKEN": "YOUR_TOKEN_HERE",
+    "PREFIX": "YOUR_PREFIX_HERE",
+    "READY": "Developed By Mavera.",
+
+    "BUTTON": {
+        "ETKCEK": ["EVENTS_AND_GIVEAWAY_ROLE_ID_HERE", "EVENTS_AND_GIVEAWAY_ROLE_ID_HERE"],
+        "ETKNLIK": "EVENTS_ROLE_ID_HERE",
+        "CEKILIS": "GIVEAWAY_ROLE_ID_HERE"
+    },
+
+    "ROLE": {
+        "MAVERA": "DEVELOPED BY MAVERA!"
+    }
+} 
